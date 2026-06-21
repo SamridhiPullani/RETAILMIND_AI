@@ -1,4 +1,4 @@
-# 🚀 RetailMind AI
+# RetailMind AI
 
 ## Real-Time Retail Analytics & Business Intelligence Platform
 
@@ -6,11 +6,10 @@ RetailMind AI is a comprehensive retail analytics platform designed to help busi
 
 Built using Python, Streamlit, MySQL, and data analytics technologies, the platform transforms raw business data into meaningful visualizations and performance metrics, enabling data-driven decision making.
 
----
 
-## ✨ Key Features
+## Key Features
 
-### 📊 Analytics Dashboard
+###  Analytics Dashboard
 
 * Real-time business performance monitoring
 * Revenue analytics and trend visualization
@@ -19,35 +18,34 @@ Built using Python, Streamlit, MySQL, and data analytics technologies, the platf
 * Category performance analysis
 * Sales forecasting and business insights
 
-### 👥 Customer Management
+###  Customer Management
 
 * Customer registration and management
 * Customer database maintenance
 * Customer order tracking
 
-### 🛍️ Product Management
+###  Product Management
 
 * Product catalog management
 * Product search and filtering
 * Category-based organization
 
-### 📦 Order Management
+###  Order Management
 
 * Order placement and tracking
 * Order status updates
 * Order history management
 * Order deletion and modifications
 
-### 📈 Reporting & Insights
+###  Reporting & Insights
 
 * Interactive charts and visualizations
 * Revenue performance reports
 * Downloadable CSV reports
 * Business intelligence metrics
 
----
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 **Frontend**
 
@@ -69,13 +67,13 @@ Built using Python, Streamlit, MySQL, and data analytics technologies, the platf
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 The primary objective of RetailMind AI is to provide an intelligent retail management and analytics solution that helps organizations improve operational efficiency, understand customer behavior, monitor sales performance, and make informed business decisions through data-driven insights.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 RETAILMIND_AI
@@ -107,7 +105,7 @@ RETAILMIND_AI
 
 ---
 
-## 👩‍💻 Developer
+##  Developer
 
 **Samridhi Pullani**
 
