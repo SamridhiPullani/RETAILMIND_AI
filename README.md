@@ -112,3 +112,23 @@ RETAILMIND_AI
 BCA Student | Data Analytics Enthusiast | Python Developer
 
 GitHub: https://github.com/SamridhiPullani
+
+## 📸 Project Screenshots
+
+### Login Page
+![Login](screenshot/Screenshot%202026-06-21%20094735.png)
+
+### Dashboard Overview
+![Dashboard](screenshot/Screenshot%202026-06-21%20095516.png)
+
+### Analytics Dashboard
+![Analytics](screenshot/Screenshot%202026-06-21%20100501.png)
+
+### Customer Management
+![Customer](screenshot/Screenshot%202026-06-21%20100530.png)
+
+### Product Management
+![Product](screenshot/Screenshot%202026-06-21%20100559.png)
+
+### Order Management
+![Order](screenshot/Screenshot%202026-06-21%20100818.png)
