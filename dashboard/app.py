@@ -4,6 +4,12 @@ import plotly.express as px
 from sklearn.cluster import KMeans
 from sklearn.linear_model import LinearRegression
 import numpy as np
+
+import sys
+import os
+
+sys.path.append(os.path.dirname(os.path.dirname(__file__)))
+
 from db import conn, cursor
 
 try:
@@ -591,21 +597,6 @@ fig_revenue = px.bar(
 
 st.plotly_chart(
     fig_revenue,
-    use_container_width=True
-)
-st.divider()
-
-st.subheader("🥇 Product Share")
-
-fig_share = px.pie(
-    revenue_df,
-    names="Product",
-    values="Revenue",
-    template="plotly_dark"
-)
-
-st.plotly_chart(
-    fig_share,
     use_container_width=True
 )
 st.divider()
